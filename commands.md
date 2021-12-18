@@ -223,11 +223,6 @@ _****Example: **/donate**_
 Returns information about the premium features of Color-Chan.\
 _****Example: **/premium**_
 
-### /latency
-
-Returns some information about the latency between the services of Color-Chan.\
-_****Example: **/latency**_
-
 ### /support
 
 Returns the invite where you can ask for support with color-chan.\
