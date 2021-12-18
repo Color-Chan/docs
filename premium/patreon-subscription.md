@@ -6,7 +6,9 @@ description: >-
 
 # Patreon subscription
 
+{% hint style="info" %}
 Information about all the different Patreon subscriptions can be found [here](https://www.patreon.com/BrammyS).
+{% endhint %}
 
 ## Connecting your Discord account with Patreon.
 
