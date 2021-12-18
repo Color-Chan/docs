@@ -18,9 +18,14 @@ description: A list of the commands for Color-Chan!
 Return a list with all the commands for Color-Chan.\
 Example: **/help**
 
+### **/getting started**
+
+Returns a guide on how to get started with Color-Chan.\
+_Example: **/getting started**_
+
 ### /setup
 
-Returns a simple step by step explanation on how to setup Color-Chan.\
+Returns a guide on how to setup Color-Chan.\
 _Example: **/setup**_
 
 ### /add hex color
