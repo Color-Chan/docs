@@ -6,6 +6,8 @@ description: >-
 
 # Patreon subscription
 
+Information about all the different Patreon subscriptions can be found [here](https://www.patreon.com/BrammyS).
+
 ## Connecting your Discord account with Patreon.
 
 First you need to connect your Patreon account with your Discord account so the bot knows you have a subscription. All you need to do is following the steps mentioned [here](https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-get-my-Discord-Rewards-).
