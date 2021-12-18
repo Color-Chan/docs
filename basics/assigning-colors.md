@@ -27,10 +27,10 @@ You will need to provide the name or the number of the color.\
 
 Members can also get a color via a reaction color message.\
 These can be created with **/add reaction colors** or **/add reaction color**.\
-More information about how to create reaction color messages can be found on the **Creating reaction color lists** page.
+More information about how to create reaction color messages can be found on the **Managing reaction color lists** page.
 
-{% content-ref url="creating-reaction-color-lists.md" %}
-[creating-reaction-color-lists.md](creating-reaction-color-lists.md)
+{% content-ref url="managing-reaction-color-lists.md" %}
+[managing-reaction-color-lists.md](managing-reaction-color-lists.md)
 {% endcontent-ref %}
 
 {% embed url="https://cdn.brammys.com/file/brammys/screenshots/2021/12/c27zno6ZPaSybAe2njAvTXfZKJuI8kMWiM5zy60U60NBGp78Q6eux32bCngJNzEU.png" %}
