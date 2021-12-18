@@ -264,7 +264,7 @@ Typing **/** will also show all the current slash commands in your server. You c
 Color-Chan's command list.
 {% endembed %}
 
-Please read "**Slash command issues**" if you can not see any of the slash commands.
+Please read the **Slash command issues** page if you can not see any of the slash commands.
 
 {% content-ref url="common-problems/slash-command-issues.md" %}
 [slash-command-issues.md](common-problems/slash-command-issues.md)

@@ -13,3 +13,4 @@
 ## Common problems
 
 * [Slash command issues](common-problems/slash-command-issues.md)
+* [My colors are not showing](common-problems/my-colors-are-not-showing.md)

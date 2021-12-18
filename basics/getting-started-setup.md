@@ -10,25 +10,15 @@ description: >-
 
 You can invite Color-Chan with the following link: [https://colorchan.com/permalinks/invite](https://colorchan.com/permalinks/invite)
 
-## 2. Role order.
+## 2. Move Color-Chans role.
 
-Discord only shows the color of the role that a user has whit the highest position. This means that the color roles need to be above all normal roles, or you will need the give all the normal roles (That have a higher position then the color roles) the default color.
+Color-Chan creates the color roles **below her highest role**. You will need to drag Color-Chan above all the roles that do not have the Default color role, to avoid overlapping issues with colors from different roles.
 
-### 2.1 Option 1
-
-Give all the roles above the color roles the default color.
-
-{% embed url="https://cdn.brammys.com/file/brammys/screenshots/2021/12/T3Nx8QNXbjiwCyoY4roffUInDpHT8z2ZhS0GKYo1RqxjVeLcsdc2rYYKlt6RypEU.png" %}
-Role order option 1.
+{% embed url="https://cdn.brammys.com/file/brammys/screenshots/2021/12/FVtAs9CXJ3W2IWTFhRTjohAu91j5bP7Y7qSy6Exrdj1KEAhEgEdHv5Eyc0ShDjRE.png" %}
+Moving Color-Chan's role.
 {% endembed %}
 
-### 2.2 Option 2
 
-Drag Color-Chan's role and the color roles above all other roles.
-
-{% embed url="https://cdn.brammys.com/file/brammys/screenshots/2021/12/jeuYidKGuux2FN6w2Fw63ClUafcSqOkPuJLSMk832YXn2lLcMCcVYkRUQYZMTNCj.png" %}
-Role order option 2.
-{% endembed %}
 
 ## 3. Add color roles!
 
