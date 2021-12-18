@@ -6,13 +6,19 @@ description: >-
 
 # Permissions
 
-By default everyone with the **Manage Roles** permission can **add**, **edit** and **delete color roles**. However they can not clear the color list or reaction lists. Users will need to be admin to use those commands, all the **toggle** commands are also admin only.
+{% hint style="info" %}
+Everyone with the **Manage Roles** permission can **add**, **edit** and **delete color roles** by default. However they can not clear the color list or reaction lists. Users will need to be admin to use those commands, all the **toggle** commands are also admin only.
+{% endhint %}
 
 ## Color Managers.
 
 You can create one or more **Color Management** roles if you do not want to give users the **Manage Roles** permission. This will make it possible for them to **add**, **edit** and **delete color roles** without **Manage Roles** permission.
 
 ### Adding a Color Management role.
+
+{% hint style="info" %}
+Adding a Color Management role will deny users with the **Manage Roles** permission from **adding**, **editing** and **deleting color roles** if they do not have the Management role.
+{% endhint %}
 
 You can add a management role with the **/management role** command.\
 Example: **/management role role:@Admin**
