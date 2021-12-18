@@ -15,7 +15,7 @@ _Note: You **do not need to kick Color-Chan** for this set._
 
 Give the **@everyone** role the **Use Application Commands** permission via the **Server Settings**.
 
-{% embed url="https://cdn.brammys.com/file/brammys/screenshots/2021/12/Yw4w5cysTQWIsCgHcCAvmZR8JYn1Bqmit5Q4BC8rWH7k35W7tLJMD7sSDjDTAoLi.png" %}
+{% embed url="https://cdn.colorchan.com/docImgs/UseApplicationCommandsPermRoles.png" %}
 Enable the **Use Application Commands** for roles.
 {% endembed %}
 
@@ -23,7 +23,7 @@ Enable the **Use Application Commands** for roles.
 
 The **Use Application Commands** permission is also used on **channels**. Please enable the permission or leave it on neutral on the channel where you would want people to use Color-Chan in.
 
-{% embed url="https://cdn.brammys.com/file/brammys/screenshots/2021/12/AV0f5xGqQIZTQLsKsFRgVFLQVt3FC1yxJS1YyQsX8G0U7yXETp3tvVbh5dvR64qL.png" %}
+{% embed url="https://cdn.colorchan.com/docImgs/UseApplicationCommandsPermChannels.png" %}
 Enable the **Use Application Commands** permission on channels.
 {% endembed %}
 
@@ -51,7 +51,7 @@ Go to the app store and lick on the **Updates** tab, and click the **update butt
 
 Enable the **Use slash commands and preview emojis, mentions, and markdown syntax as you type** setting in your user settings. You can access this by clicking on the gear icon in the bottom left corner.
 
-{% embed url="https://cdn.brammys.com/file/brammys/screenshots/2021/12/8C3370OHOYmIZ2Py72M8RI1sh7QRHbVIBBvHj2g6WQco5wGctMIpB2wSLPgj8WPi.png" %}
+{% embed url="https://cdn.colorchan.com/docImgs/PreviewSlashCommands.png" %}
 Enable slash commands previews.
 {% endembed %}
 

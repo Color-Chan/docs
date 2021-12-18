@@ -16,7 +16,7 @@ First you need to connect your Patreon account with your Discord account so the 
 
 After you have followed those instructions you should be able to use **/patreon info** to see information about your subscription.
 
-{% embed url="https://cdn.brammys.com/file/brammys/screenshots/2021/12/Vsp1Qcur4nYRRprprE9OAcZDegBfwqGIsFTo9ljK0t6rL0iBwkZ70V3yvupTIREB.png" %}
+{% embed url="https://cdn.colorchan.com/docImgs/PatreonInfoCommand.png" %}
 **/patreon info** command result.
 {% endembed %}
 

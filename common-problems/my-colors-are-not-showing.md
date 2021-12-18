@@ -10,7 +10,7 @@ Discord only shows the color of the role that a user has with the **highest** po
 
 Give all the roles above the color roles the default color.
 
-{% embed url="https://cdn.brammys.com/file/brammys/screenshots/2021/12/T3Nx8QNXbjiwCyoY4roffUInDpHT8z2ZhS0GKYo1RqxjVeLcsdc2rYYKlt6RypEU.png" %}
+{% embed url="https://cdn.colorchan.com/docImgs/ColorOverlapFix1.png" %}
 Role order option 1.
 {% endembed %}
 
@@ -18,7 +18,7 @@ Role order option 1.
 
 Drag Color-Chan's role and the color roles above all other roles.
 
-{% embed url="https://cdn.brammys.com/file/brammys/screenshots/2021/12/jeuYidKGuux2FN6w2Fw63ClUafcSqOkPuJLSMk832YXn2lLcMCcVYkRUQYZMTNCj.png" %}
+{% embed url="https://cdn.colorchan.com/docImgs/ColorOverlapFix2.png" %}
 Role order option 2.
 {% endembed %}
 

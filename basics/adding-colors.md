@@ -9,7 +9,7 @@ description: Don't know how to add colors? Everything about adding is explained 
 A default color list with 8 colors can be added with one simple command!\
 You can use the **/add default colors** for this.
 
-{% embed url="https://cdn.brammys.com/file/brammys/screenshots/2021/12/M5Wnr7jhYOGxJo82wEZ6tesYqiDd94JZRfi6L7iZvaELY6OawVxPUAEy0Wy2R4tQ.png" %}
+{% embed url="https://cdn.colorchan.com/docImgs/AddDefaultColors.png" %}
 The default color list.
 {% endembed %}
 

@@ -14,11 +14,9 @@ You can invite Color-Chan with the following link: [https://colorchan.com/permal
 
 Color-Chan creates the color roles **below her highest role**. You will need to drag Color-Chan above all the roles that do not have the Default color role, to avoid overlapping issues with colors from different roles.
 
-{% embed url="https://cdn.brammys.com/file/brammys/screenshots/2021/12/FVtAs9CXJ3W2IWTFhRTjohAu91j5bP7Y7qSy6Exrdj1KEAhEgEdHv5Eyc0ShDjRE.png" %}
+{% embed url="https://cdn.colorchan.com/docImgs/ColorChanRolePos.png" %}
 Moving Color-Chan's role.
 {% endembed %}
-
-
 
 ## 3. Add color roles!
 
@@ -32,8 +30,8 @@ You can add a default color list with: **/add default colors**, or you can add a
 
 You can now view your color list with **/color list**, after you have added one or more colors.
 
-{% embed url="https://cdn.brammys.com/file/brammys/screenshots/2021/12/QbqYaU5pemap4Ix6NvoCs6JIODhDyC4UvxKFCGAE5FeBgQrRJPjD8YbYqckNwe2f.png" %}
-Color list.
+{% embed url="https://cdn.colorchan.com/docImgs/ColorListCommand.png" %}
+Color list command response.
 {% endembed %}
 
 ## 5. Reaction colors. (Optional)
@@ -46,6 +44,6 @@ Examples on how to use the add reaction color commands can be found on the **Com
 [commands.md](../commands.md)
 {% endcontent-ref %}
 
-{% embed url="https://cdn.brammys.com/file/brammys/screenshots/2021/12/c27zno6ZPaSybAe2njAvTXfZKJuI8kMWiM5zy60U60NBGp78Q6eux32bCngJNzEU.png" %}
+{% embed url="https://cdn.colorchan.com/docImgs/ColorReactionList.png" %}
 Color reaction list.
 {% endembed %}

@@ -25,7 +25,7 @@ Example: **/management role role:@Admin**
 
 You will be able to view all the management roles with the **/management roles** command once you have added one or more roles.
 
-{% embed url="https://cdn.brammys.com/file/brammys/screenshots/2021/12/6Nc1pBgEGwIw31S1nAIp2IFx6UFCWnSU2DzP8BNW2TPQ5DruIJwcE1ko0ECIc3nu.png" %}
+{% embed url="https://cdn.colorchan.com/docImgs/ColorManagementRolesCommand.png" %}
 /management roles response.
 {% endembed %}
 

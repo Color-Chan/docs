@@ -260,7 +260,7 @@ _****Example 2: **/patreon disconnect id:12345**_
 You can use the _**/help**_ command to see the same list of commands that are listed below.\
 Typing **/** will also show all the current slash commands in your server. You can click on Color-Chan's icon to see her commands only.&#x20;
 
-{% embed url="https://cdn.brammys.com/file/brammys/screenshots/2021/12/tF4jDz6ZxESfHIof3SbQzo2cYw0wZ8ZFcNgM2Y4qdKjgEiqX8CPRVSKLMl02uOYJ.png" %}
+{% embed url="https://cdn.colorchan.com/docImgs/SlashCommandsPreview.png" %}
 Color-Chan's command list.
 {% endembed %}
 

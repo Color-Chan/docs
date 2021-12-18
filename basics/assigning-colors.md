@@ -21,7 +21,7 @@ Every can use the **/set color** command. \
 You will need to provide the name or the number of the color.\
 **Example: /set color name:Green** or **/set color number:1**
 
-{% embed url="https://cdn.brammys.com/file/brammys/screenshots/2021/12/gewPAayt2NxZaqdbBd182rhcb8BR6NBXtjU07Neo5z2Ko9QzgkfZoHTrezk6cEIh.png" %}
+{% embed url="https://cdn.colorchan.com/docImgs/ColorSetCommand.png" %}
 
 ## **Reaction colors**
 
@@ -33,6 +33,6 @@ More information about how to create reaction color messages can be found on the
 [managing-reaction-color-lists.md](managing-reaction-color-lists.md)
 {% endcontent-ref %}
 
-{% embed url="https://cdn.brammys.com/file/brammys/screenshots/2021/12/c27zno6ZPaSybAe2njAvTXfZKJuI8kMWiM5zy60U60NBGp78Q6eux32bCngJNzEU.png" %}
+{% embed url="https://cdn.colorchan.com/docImgs/ColorReactionList.png" %}
 Reaction color message example.
 {% endembed %}

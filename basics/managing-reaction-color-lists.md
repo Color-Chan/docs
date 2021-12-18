@@ -15,8 +15,8 @@ You can also add specific colors to a reaction list. This can be done with the *
 Example: **/add reaction color name:Red**\
 ****Example: **/add reaction color number:1**
 
-{% embed url="https://cdn.brammys.com/file/brammys/screenshots/2021/12/c27zno6ZPaSybAe2njAvTXfZKJuI8kMWiM5zy60U60NBGp78Q6eux32bCngJNzEU.png" %}
-Simple reaction color list.
+{% embed url="https://cdn.colorchan.com/docImgs/ColorReactionList.png" %}
+**Simple reaction color list.**
 {% endembed %}
 
 ## Deleting reaction color lists.
@@ -29,4 +29,4 @@ Just get the ID of the reaction list that you want to delete with **/reaction li
 Then use that ID with the **/delete reaction list**. \
 Example: **/delete reaction list id:907028339548618793**
 
-{% embed url="https://cdn.brammys.com/file/brammys/screenshots/2021/12/lNOacTwKLoSHgi0tJusq0Fo2ptTCW6QXW3Y5rN8ABc8oGSYztdK5FuKbBDLUjJ8Y.png" %}
+{% embed url="https://cdn.colorchan.com/docImgs/ColorReactionListsCommand.png" %}
