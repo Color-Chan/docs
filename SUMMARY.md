@@ -2,8 +2,12 @@
 
 * [Info](README.md)
 * [Commands](commands.md)
-* [Slash command issues](slash-command-issues.md)
 
 ## Basics
 
-* [Getting started](basics/getting-started.md)
+* [Getting started / Setup](basics/getting-started-setup.md)
+* [Adding colors](basics/adding-colors.md)
+
+## Common problems
+
+* [Slash command issues](common-problems/slash-command-issues.md)

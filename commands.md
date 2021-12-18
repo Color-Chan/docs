@@ -265,8 +265,8 @@ Color-Chan's command list.
 
 Please read "**Slash command issues**" if you can not see any of the slash commands.
 
-{% content-ref url="slash-command-issues.md" %}
-[slash-command-issues.md](slash-command-issues.md)
+{% content-ref url="common-problems/slash-command-issues.md" %}
+[slash-command-issues.md](common-problems/slash-command-issues.md)
 {% endcontent-ref %}
 
 _****_
