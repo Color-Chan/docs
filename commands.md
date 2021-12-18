@@ -80,18 +80,6 @@ _****Example **** 2: **/set color number:1**_
 Changes the color of a server member's name!\
 _Example 1: **/set members color user:@BrammyS#0001 name:Hotpink**_\
 _****Example 2: **/set members color user:@BrammyS#0001 number:1**_
-
-### /edit hex color
-
-Edits a color role with a new name and new HEX color.\
-_Example 1: **/edit hex color new\_name:White hex:FFFFFF name:Hotpink**_\
-_****Example 1: **/edit hex color new\_name:White hex:FFFFFF number:1**_
-
-### _/edit rgb color_
-
-Edits a color role with a new name and new RGB color.\
-_Example 1: **/edit hex color new\_name:White r:255 g:255 b:255 name:Hotpink**_\
-_****Example 1: **/edit hex color new\_name:White r:255 g:255 b:255 number:1**_
 {% endtab %}
 
 {% tab title="Color reaction commands" %}
@@ -158,6 +146,18 @@ _****Example: **/add existing color role:@Hotpink**_
 
 Clears the color list. Note: This is irreversible!\
 _Example: **/clear color list**_
+
+### /edit hex color
+
+Edits a color role with a new name and new HEX color.\
+_Example 1: **/edit hex color new\_name:White hex:FFFFFF name:Hotpink**_\
+_****Example 1: **/edit hex color new\_name:White hex:FFFFFF number:1**_
+
+### _/edit rgb color_
+
+Edits a color role with a new name and new RGB color.\
+_Example 1: **/edit hex color new\_name:White r:255 g:255 b:255 name:Hotpink**_\
+_****Example 1: **/edit hex color new\_name:White r:255 g:255 b:255 number:1**_
 {% endtab %}
 
 {% tab title="Server settings" %}
