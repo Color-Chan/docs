@@ -28,7 +28,7 @@ You can add specific colors with a color name and a HEX code or a RGB code. More
 ## Adding existing color roles.
 
 You can also add existing color roles with the **/add existing color** command.\
-**Example: /add existing color role:@Red**
+Example: **/add existing color role:@Red**
 
 ## **Importing a color list from a different server.**
 

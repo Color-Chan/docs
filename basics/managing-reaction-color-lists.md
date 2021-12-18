@@ -27,6 +27,6 @@ You can also delete it manually if the message has already been deleted.\
 Just get the ID of the reaction list that you want to delete with **/reaction lists**.
 
 Then use that ID with the **/delete reaction list**. \
-|Example: **/delete reaction list id:907028339548618793**
+Example: **/delete reaction list id:907028339548618793**
 
 {% embed url="https://cdn.brammys.com/file/brammys/screenshots/2021/12/lNOacTwKLoSHgi0tJusq0Fo2ptTCW6QXW3Y5rN8ABc8oGSYztdK5FuKbBDLUjJ8Y.png" %}

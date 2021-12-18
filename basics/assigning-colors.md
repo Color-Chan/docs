@@ -19,7 +19,7 @@ Information on how to add colors can be found on the **Adding colors** page.
 
 Every can use the **/set color** command. \
 You will need to provide the name or the number of the color.\
-**Example:** **/set color name:Green** or **/set color number:1**
+**Example: /set color name:Green** or **/set color number:1**
 
 {% embed url="https://cdn.brammys.com/file/brammys/screenshots/2021/12/gewPAayt2NxZaqdbBd182rhcb8BR6NBXtjU07Neo5z2Ko9QzgkfZoHTrezk6cEIh.png" %}
 
