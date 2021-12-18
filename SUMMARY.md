@@ -14,3 +14,7 @@
 
 * [Slash command issues](common-problems/slash-command-issues.md)
 * [My colors are not showing](common-problems/my-colors-are-not-showing.md)
+
+## Premium&#x20;
+
+* [Patreon subscription](premium/patreon-subscription.md)
