@@ -22,10 +22,10 @@ Moving Color-Chan's role.
 
 ## 3. Add color roles!
 
-You can add a default color list with: **/add default colors**, or you can add a random color with **/add random color**. You can also add your own color with **/add rgb color** and **/add hex color** by providing a name and a color code. More information about color codes can be found [here](https://htmlcolorcodes.com/color-picker/). Examples on how to use the add color commands can be found on the **Commands** page.
+You can add a default color list with: **/add default colors**, or you can add a random color with **/add random color**. You can also add your own color with **/add rgb color** and **/add hex color** by providing a name and a color code. More information about color codes can be found [here](https://htmlcolorcodes.com/color-picker/). Examples on how to use the add color commands can be found on the **Adding colors** page.
 
-{% content-ref url="../commands.md" %}
-[commands.md](../commands.md)
+{% content-ref url="adding-colors.md" %}
+[adding-colors.md](adding-colors.md)
 {% endcontent-ref %}
 
 ## 4. View your color list!
