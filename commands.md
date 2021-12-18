@@ -7,7 +7,7 @@ description: A list of the commands for Color-Chan!
 {% hint style="info" %}
 **All of Color-Chan's commands have moved to slash commands since November 6th.**
 
-**This change is inevitable**, as starting in April 2022, verified bots in 75 servers or more will need to change to slash commands. More info can be found [here](https://support-dev.discord.com/hc/en-us/articles/4404772028055.).\
+**This change is inevitable**, as starting in April 2022, verified bots in 75 servers or more will need to change to slash commands. More info can be found [here](https://support-dev.discord.com/hc/en-us/articles/4404772028055).\
 **Custom prefixes have also been removed during this move**. Color-Chan's prefix is now **/**
 {% endhint %}
 
