@@ -6,15 +6,15 @@ description: >-
 
 # Getting started / Setup
 
-### 1. Add Color-Chan to your server.
+## 1. Add Color-Chan to your server.
 
 You can invite Color-Chan with the following link: [https://colorchan.com/permalinks/invite](https://colorchan.com/permalinks/invite)
 
-### 2. Role order.
+## 2. Role order.
 
 Discord only shows the color of the role that a user has whit the highest position. This means that the color roles need to be above all normal roles, or you will need the give all the normal roles (That have a higher position then the color roles) the default color.
 
-#### 2.1 Option 1
+### 2.1 Option 1
 
 Give all the roles above the color roles the default color.
 
@@ -22,7 +22,7 @@ Give all the roles above the color roles the default color.
 Role order option 1.
 {% endembed %}
 
-#### 2.2 Option 2
+### 2.2 Option 2
 
 Drag Color-Chan's role and the color roles above all other roles.
 
@@ -30,7 +30,7 @@ Drag Color-Chan's role and the color roles above all other roles.
 Role order option 2.
 {% endembed %}
 
-### 3. Add color roles!
+## 3. Add color roles!
 
 You can add a default color list with: **/add default colors**, or you can add a random color with **/add random color**. You can also add your own color with **/add rgb color** and **/add hex color** by providing a name and a color code. More information about color codes can be found [here](https://htmlcolorcodes.com/color-picker/). Examples on how to use the add color commands can be found on the **Commands** page.
 
@@ -38,7 +38,7 @@ You can add a default color list with: **/add default colors**, or you can add a
 [commands.md](../commands.md)
 {% endcontent-ref %}
 
-### 4. View your color list!
+## 4. View your color list!
 
 You can now view your color list with **/color list**, after you have added one or more colors.
 
@@ -46,7 +46,7 @@ You can now view your color list with **/color list**, after you have added one 
 Color list.
 {% endembed %}
 
-### 5. Reaction colors. (Optional)
+## 5. Reaction colors. (Optional)
 
 You can also create a reaction color message with Color-Chan. these can be created with: \
 **/add reaction colors** and **/add reaction color**.\

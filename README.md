@@ -6,7 +6,7 @@ description: >-
 
 # Info
 
-### Where to start?
+## Where to start?
 
 There are a lot of pages here, but you should start with reading **Getting started / Setup** and the other pages in the **Basics** category.
 
