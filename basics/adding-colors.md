@@ -33,3 +33,13 @@ Example: **/add existing color role:@Red**
 ## **Importing a color list from a different server.**
 
 It is also possible to import an existing color list from a different server. You will need to get the export ID with **/export color list**. You can import the existing list with the following command after you have gotten the export ID: **/import color list id:123456**
+
+## **Deleting color roles**
+
+{% hint style="danger" %}
+_Clearing the color list or deleting color roles is **irreversible**. You will have to create the deleted color roles again._
+{% endhint %}
+
+You can delete colors with the **/delete color** command once you have added one or more color roles to your color list. Example: **/delete color number:1** or **/delete color name:Red**.
+
+It is also possible to delete the whole color list at once. You can do this with the **/clear color list** command.
