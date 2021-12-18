@@ -9,6 +9,7 @@
 * [Adding colors](basics/adding-colors.md)
 * [Managing reaction color lists](basics/managing-reaction-color-lists.md)
 * [Assigning colors](basics/assigning-colors.md)
+* [Permissions](basics/permissions.md)
 
 ## Common problems
 
