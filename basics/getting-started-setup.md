@@ -38,10 +38,10 @@ Color list command response.
 
 You can also create a reaction color message with Color-Chan. these can be created with: \
 **/add reaction colors** and **/add reaction color**.\
-Examples on how to use the add reaction color commands can be found on the **Commands** page.
+Examples on how to use the add reaction color commands can be found on the **Managing reaction color lists** page.
 
-{% content-ref url="../commands.md" %}
-[commands.md](../commands.md)
+{% content-ref url="managing-reaction-color-lists.md" %}
+[managing-reaction-color-lists.md](managing-reaction-color-lists.md)
 {% endcontent-ref %}
 
 {% embed url="https://cdn.colorchan.com/docImgs/ColorReactionList.png" %}
