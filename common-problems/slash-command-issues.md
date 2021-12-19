@@ -7,7 +7,7 @@ description: Please follow these steps if slash commands aren't working for your
 ## 1. Re-invite Color-Chan.
 
 Re-invite Color-Chan to the same server with the following link: [https://colorchan.com/permalinks/invite](https://colorchan.com/permalinks/invite)\
-_Note: You **do not need to kick Color-Chan** for this set._
+_Note: You **do not need to kick Color-Chan**._
 
 ## 2. Enable the Use Application Commands permission.
 
