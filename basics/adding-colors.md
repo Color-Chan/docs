@@ -19,7 +19,11 @@ You can also add random colors with the **/add random color** command. Or you ca
 
 ## Adding specific colors.
 
-You can add specific colors with a color name and a HEX code or a RGB code. More information about color codes can be found [here](https://htmlcolorcodes.com/color-picker/).
+You can add specific colors with a color name and a HEX code or a RGB code.&#x20;
+
+{% hint style="info" %}
+More information about color codes can be found [here](https://htmlcolorcodes.com/color-picker/). You can also find a list of 140 named colors [here](https://htmlcolorcodes.com/color-names/), incase you are having trouble thinking of any names for your colors.
+{% endhint %}
 
 * Red: **/add hex color name:Red hex:#FF0000** or **/add hex color name:Red r:255 g:0 b:0**&#x20;
 * Green: **/add hex color name:Green hex:#00FF00** or **/add hex color name:Green r:0 g:255 b:0**&#x20;
