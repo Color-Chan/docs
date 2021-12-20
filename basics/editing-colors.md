@@ -18,7 +18,7 @@ Example: **/edit rgb color new\_name:Blue r:0 g:0 b:255 name:Red**\
 Example: **/edit hex color new\_name:Blue hex:#0000FF name:Red**\
 ****Example: **/edit hex color new\_name:Blue hex:#0000FF number:1**
 
-Almost everything is the same as the **add color commands** expect for the last input option, since you need to specify what color you want to edit.
+Almost everything is the same as the **add color commands** expect for the last input option, since you need to specify what color you want to edit. This is done with the **name** or **number** option, only one needs to be specified.
 
 ## Editing roles in the server settings.
 
