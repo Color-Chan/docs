@@ -6,8 +6,10 @@ description: >-
 
 # Patreon subscription
 
+The **default limit** for the amount of colors in the **color list is 51** and for the **reaction lists it is 16**. This can be increased by subscribing to our [Patreon ](https://www.patreon.com/BrammyS)page.
+
 {% hint style="info" %}
-Information about all the different Patreon subscriptions can be found [here](https://www.patreon.com/BrammyS).
+Information about all the different [Patreon ](https://www.patreon.com/BrammyS)subscriptions can be found [here](https://www.patreon.com/BrammyS).
 {% endhint %}
 
 ## Connecting your Discord account with Patreon.
