@@ -6,6 +6,10 @@ description: Don't know how to add colors? Everything about adding is explained 
 
 ## Adding a default color list.
 
+{% hint style="warning" %}
+Default color lists can only be added if your color list is empty.
+{% endhint %}
+
 A default color list with 8 colors can be added with one simple command!\
 You can use the **/add default colors** for this.
 

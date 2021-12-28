@@ -6,6 +6,15 @@ description: >-
 
 # Managing reaction color lists
 
+{% hint style="info" %}
+You will need to add colors to your list first to use the commands mentioned on this page.\
+Information on how to add colors can be found on the **Adding colors** page.
+{% endhint %}
+
+{% content-ref url="adding-colors.md" %}
+[adding-colors.md](adding-colors.md)
+{% endcontent-ref %}
+
 ## Adding and creating color reaction lists.
 
 You can create reaction color lists once you have added colors to color list!\

@@ -6,6 +6,15 @@ description: >-
 
 # Editing colors
 
+{% hint style="info" %}
+You will need to add colors to your list first to use the commands mentioned on this page.\
+Information on how to add colors can be found on the **Adding colors** page.
+{% endhint %}
+
+{% content-ref url="adding-colors.md" %}
+[adding-colors.md](adding-colors.md)
+{% endcontent-ref %}
+
 ## The edit commands.
 
 We have added the **/edit hex color** and the **/edit rgb color** commands when we added slash commands. They could seem difficult to use because of all of the different input options, but they are actually really simple to use!&#x20;
