@@ -11,6 +11,7 @@
 * [Managing reaction color lists](basics/managing-reaction-color-lists.md)
 * [Permissions](basics/permissions.md)
 * [Editing colors](basics/editing-colors.md)
+* [Color on join](basics/color-on-join.md)
 
 ## Common problems
 
