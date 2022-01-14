@@ -181,6 +181,11 @@ _****Example: **/toggle delete responses**_
 Toggles whether or not to give new members a color role.\
 _****Example: **/toggle join color**_
 
+### /toggle export command
+
+Toggles the export color list command on or off.\
+_****Example: **/toggle export command**_
+
 ### /management roles
 
 Returns a list for color management roles from this server.\
