@@ -24,4 +24,4 @@
 
 ## Releases
 
-* [Release notes](releases/release-notes.md)
+* [Patch notes](releases/patch-notes.md)
