@@ -21,3 +21,7 @@
 ## Premium&#x20;
 
 * [Patreon subscription](premium/patreon-subscription.md)
+
+## Releases
+
+* [Release notes](releases/release-notes.md)
