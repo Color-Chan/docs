@@ -25,3 +25,7 @@
 ## Releases
 
 * [Patch notes](releases/patch-notes.md)
+
+***
+
+* [Privacy Policy](privacy-policy.md)
