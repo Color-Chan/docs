@@ -29,3 +29,4 @@
 ***
 
 * [Privacy Policy](privacy-policy.md)
+* [Terms Of Service](terms-of-service.md)

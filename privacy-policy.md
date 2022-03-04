@@ -18,7 +18,7 @@ Command errors. We store the same as the **Command usage** mentioned above, plus
 
 ## Agreement
 
-By inviting Color-Chan to your Discord Server, you agree to this Privacy Policy. You can not use this service without agreeing to the Privacy Policy.
+By using Color-Chan's services, you agree to the Privacy Policy. You can not use this service without agreeing to the Privacy Policy.
 
 ### Delete Request
 
