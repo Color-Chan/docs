@@ -2,7 +2,17 @@
 description: All the release notes for Color-Chan's version can be found here.
 ---
 
-# Release notes
+# Patch notes
+
+## v4.6.4 - March 2 2022
+
+* Fix: Unable to export color lists for some servers.
+
+## v4.6.3 - February 18 2022
+
+* Added support for more emojis on the color list.
+* Added more random colors.
+* Updated all dependencies.
 
 ## v4.6.2 - January 28 2022
 
