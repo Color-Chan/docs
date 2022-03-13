@@ -4,6 +4,10 @@ description: All the release notes for Color-Chan's version can be found here.
 
 # Patch notes
 
+## v4.6.7 - March 11 2022
+
+* Added retries for uploading images to S3.
+
 ## v4.6.6 - March 7 2022
 
 * Added some very secret dev commands to help with debugging.
