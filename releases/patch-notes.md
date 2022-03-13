@@ -4,6 +4,14 @@ description: All the release notes for Color-Chan's version can be found here.
 
 # Patch notes
 
+## v4.6.6 - March 7 2022
+
+* Added some very secret dev commands to help with debugging.
+
+## v4.6.5 - March 5 2022
+
+* Fix: Typo in help command.
+
 ## v4.6.4 - March 2 2022
 
 * Fix: Unable to export color lists for some servers.
