@@ -4,6 +4,18 @@ description: All the release notes for Color-Chan's version can be found here.
 
 # Patch notes
 
+## v4.6.10 - April 11 2022
+
+* Updated all dependencies.
+
+## v4.6.9 - March 11 2022
+
+* Added a Redis server to handle all the caching.
+
+## v4.6.8 - March 13 2022
+
+* Moved the Discord proxy to Color-Chan's kubernetes cluster.
+
 ## v4.6.7 - March 11 2022
 
 * Added retries for uploading images to S3.
