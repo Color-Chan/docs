@@ -8,7 +8,7 @@ description: All the release notes for Color-Chan's version can be found here.
 
 * Updated all dependencies.
 
-## v4.6.9 - March 11 2022
+## v4.6.9 - March 15 2022
 
 * Added a Redis server to handle all the caching.
 
