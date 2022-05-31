@@ -4,6 +4,14 @@ description: All the release notes for Color-Chan's version can be found here.
 
 # Patch notes
 
+## v4.6.12 - May 31 2022
+
+* Updated all dependencies.
+
+## v4.6.11 - May 03 2022
+
+* Updated all dependencies.
+
 ## v4.6.10 - April 11 2022
 
 * Updated all dependencies.
