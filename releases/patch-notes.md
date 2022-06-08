@@ -4,6 +4,11 @@ description: All the release notes for Color-Chan's version can be found here.
 
 # Patch notes
 
+## v4.8.0 - June 08 2022
+
+* Increased the default color reaction limit from 16 to 20.
+* Fixed incorrect home page title.
+
 ## v4.7.0 - June 06 2022
 
 * Added a new website.
