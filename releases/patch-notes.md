@@ -4,6 +4,14 @@ description: All the release notes for Color-Chan's version can be found here.
 
 # Patch notes
 
+## v4.8.3 - June 13 2022
+
+* Added SEO header tags to the website for better search engine indexing.
+
+## v4.8.2 - June 12 2022
+
+* Fixed border on the header on page load.
+
 ## v4.8.1 - June 10 2022
 
 * Decreased the website page sizes by 50%.
