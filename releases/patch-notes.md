@@ -4,6 +4,41 @@ description: All the release notes for Color-Chan's version can be found here.
 
 # Patch notes
 
+## v4.10.0 - August 15 2022&#x20;
+
+* Added `Pastel`, `Random` and `Original` default color lists.
+* Added better message formatting with lists of color names and errors.
+
+## v4.9.0 - August 07 2022&#x20;
+
+* Added the `delete-role` option to the `/delete color` command.
+
+## v4.8.9 - July 22 2022
+
+* Removed the restriction on color management roles so managed roles (roles from integrations) can be added as management roles.
+
+## v4.8.8 - July 20 2022
+
+* Added 2 more colors to the default color list.
+* Removed vote lock from `/add default colors`.
+
+## v4.8.7 - July 04 2022
+
+* Fix: Sending color removed message even when the reaction replies have been disabled.
+
+## v4.8.6 - June 24 2022
+
+* Added better error message when reaction list is missing in the database.
+* Updated dependencies.
+
+## v4.8.5 - June 23 2022
+
+* Added a delay when updating color reaction messages to avoid a race condition with discord.
+
+## v4.8.4 - June 16 2022
+
+* Added docs link to color overlap error message.
+
 ## v4.8.3 - June 13 2022
 
 * Added SEO header tags to the website for better search engine indexing.
