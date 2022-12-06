@@ -4,10 +4,20 @@ description: All the release notes for Color-Chan's version can be found here.
 
 # Patch notes
 
+## v4.12.0 - December 02 2022&#x20;
+
+* Fix: Incorrect error messages about missing the `Manage Roles` permission when the `Manage Permissions` permission was denied on the channel where the command was used
+* Updated dependencies.
+
+## v4.11.0 - November 10 2022&#x20;
+
+* Added a server counter on the index page that gets the current total server count.
+* Updated dependencies.
+
 ## v4.10.0 - August 15 2022&#x20;
 
 * Added `Pastel`, `Random` and `Original` default color lists.
-* Added better message formatting with lists of color names and errors.
+* Added better message formatting with lists of color names and errors
 
 ## v4.9.0 - August 07 2022&#x20;
 
