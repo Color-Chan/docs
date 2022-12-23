@@ -21,6 +21,7 @@
 ## Premium&#x20;
 
 * [Patreon subscription](premium/patreon-subscription.md)
+* [Disable auto join Discord server](premium/disable-auto-join-discord-server.md)
 
 ## Releases
 
