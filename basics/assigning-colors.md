@@ -17,8 +17,8 @@ Information on how to add colors can be found on the **Adding colors** page.
 
 ## The set color command
 
-Every can use the **/set color** command. \
-You will need to provide the name or the number of the color.\
+Everyone can use the **/set color** command to set their own color. \
+You will need to provide the color number or the color name to the command.\
 **Example: /set color name:Green** or **/set color number:1**
 
 {% embed url="https://cdn.colorchan.com/docImgs/ColorSetCommand.png" %}
