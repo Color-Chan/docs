@@ -12,6 +12,7 @@
 * [Permissions](basics/permissions.md)
 * [Editing colors](basics/editing-colors.md)
 * [Color on join](basics/color-on-join.md)
+* [Save/Backup colors](basics/save-backup-colors.md)
 
 ## Common problems
 
