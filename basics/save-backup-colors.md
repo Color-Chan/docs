@@ -23,6 +23,14 @@ It is incredibly easy to save colors. All you need to do is use the **/save** co
 
 You will need a save ID to restore a save, as mentioned above. The ID needs to be passed to the **/restore save** command. For example: _**/restore save id: 694717296.**_
 
+## Sharing saves
+
+It is possible to share saves with other users of Color-Chan! You can do this with the **/share save** command. For example: _**/share save id: 694717296.**_ This will create a share message in the [official support server](https://colorchan.com/permalinks/support).
+
+{% hint style="info" %}
+This command can only be executes in the [official support server](https://colorchan.com/permalinks/support) due to moderation purposes.
+{% endhint %}
+
 ## _**Viewing previous saves**_
 
 It is possible to view previously created saves with the **/saves** command. This will return a list of saves that currently exist in that server.
