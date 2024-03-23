@@ -238,7 +238,7 @@ _Example: **/color whitelist add role:@role**_
 Removes a role from the color whitelist.\
 _Example: **/color whitelist remove role:@role**_
 
-## /toggle color whitelist
+### /toggle color whitelist
 
 Toggles the color whitelist on or off.\
 _Example: **/toggle color whitelist**_
