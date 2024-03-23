@@ -4,10 +4,12 @@ description: A list of the commands for Color-Chan!
 
 # Commands
 
+{% hint style="info" %}
+You can see the same list of commands with the **/help** command in Discord!
+{% endhint %}
 
+## Basic commands
 
-{% tabs %}
-{% tab title="Basic commands" %}
 ### /help
 
 Return a list with all the commands for Color-Chan.\
@@ -80,9 +82,11 @@ _Example: **/remove color**_
 
 Suggests to add random color role to the color list.\
 _Example: **/suggest color**_
-{% endtab %}
 
-{% tab title="Color reaction commands" %}
+***
+
+## Color reaction commands
+
 ### /reaction lists
 
 Returns a list of all the current reaction lists.\
@@ -113,9 +117,11 @@ _Example: **/toggle reaction messages**_
 
 Clears all the current reaction lists. **Note: This is irreversible!**\
 _Example: **/clear reaction lists**_
-{% endtab %}
 
-{% tab title="Advance commands" %}
+***
+
+## Advanced commands
+
 ### **/color info**
 
 Returns some information about a color role.\
@@ -158,9 +164,11 @@ _Example 1: **/edit hex color new\_name:White hex:FFFFFF number:1**_
 Edits a color role with a new name and new RGB color.\
 _Example 1: **/edit hex color new\_name:White r:255 g:255 b:255 name:Hotpink**_\
 _Example 1: **/edit hex color new\_name:White r:255 g:255 b:255 number:1**_
-{% endtab %}
 
-{% tab title="Server settings" %}
+***
+
+## Server settings
+
 ### /toggle overlap warning
 
 Toggles the overlap warning on or off.\
@@ -210,9 +218,35 @@ _Example: **/channel set channel:#bot-chat**_
 
 Removes the channel restrictions so Color-Chan be used in all text channel again.\
 _Example: **/channel remove channel:#bot-chat**_
-{% endtab %}
 
-{% tab title="Save commands" %}
+***
+
+## White list commands
+
+### /color whitelist overview
+
+Returns an overview of the color whitelist.\
+_Example: **/color whitelist overview**_
+
+### /color whitelist add
+
+Adds a role to the color whitelist.\
+_Example: **/color whitelist add role:@role**_
+
+### /color whitelist remove
+
+Removes a role from the color whitelist.\
+_Example: **/color whitelist remove role:@role**_
+
+## /toggle color whitelist
+
+Toggles the color whitelist on or off.\
+_Example: **/toggle color whitelist**_
+
+***
+
+## Save commands
+
 ### /save
 
 Saves the current color list.\
@@ -237,9 +271,11 @@ _Example: **/share save id:12345678**_
 
 Deletes a a save from the save list.\
 _Example: **/delete save id:12345678**_
-{% endtab %}
 
-{% tab title="Misc" %}
+***
+
+## Misc
+
 ### /invite
 
 Returns the invite link for Color-Chan.\
@@ -286,8 +322,8 @@ _Example 2: **/patreon connect id:12345**_
 Disconnect a server from your patreon account.\
 _Example 1: **/patreon disconnect**_\
 _Example 2: **/patreon disconnect id:12345**_
-{% endtab %}
-{% endtabs %}
+
+***
 
 You can use the _**/help**_ command to see the same list of commands that are listed below.\
 Typing **/** will also show all the current slash commands in your server. You can click on Color-Chan's icon to see her commands only.&#x20;
@@ -295,10 +331,4 @@ Typing **/** will also show all the current slash commands in your server. You c
 {% embed url="https://cdn.colorchan.com/docImgs/SlashCommandsPreview.png" %}
 Color-Chan's command list.
 {% endembed %}
-
-Please read the **Slash command issues** page if you can not see any of the slash commands.
-
-{% content-ref url="common-problems/slash-command-issues.md" %}
-[slash-command-issues.md](common-problems/slash-command-issues.md)
-{% endcontent-ref %}
 
